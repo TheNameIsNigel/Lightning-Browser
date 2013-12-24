@@ -1,5 +1,5 @@
 #Lightning Browser
-#![](ic_launcher_small.png)
+#![](https://raw.github.com/thenameisnigel/Lightning-Browser/master/res/drawable-xxhdpi/ic_launcher.png)
 ####Download
 * [Download APK from here](https://github.com/anthonycr/Lightning-Browser/blob/master/BrowserActivity.apk?raw=true)
 
