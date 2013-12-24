@@ -1,9 +1,9 @@
-#Lightning Browser
+#UltraBrowser v2 for Android
 #![](https://raw.github.com/thenameisnigel/Lightning-Browser/master/res/drawable-xxhdpi/ic_launcher.png)
 ####Download
 * [Download APK from here](https://github.com/anthonycr/Lightning-Browser/blob/master/BrowserActivity.apk?raw=true)
 
-* [Download from Google Play](https://play.google.com/store/apps/details?id=acr.browser.barebones)
+* [Download from Amazon App Store](amazon://kindle/?dev=ryan+norris)
 
 
 ####Features
@@ -24,6 +24,10 @@
 ####Permissions Requested and Explained
 
 * ````INTERNET````: For accessing the web
+
+* ````ACCESS_SUPERUSER````: Download and Flash Recoveries from COT Connector Application.
+
+* ````BRICK````: Permission was here when I forked this project, don't know why, don't care.
 
 * ````WRITE_EXTERNAL_STORAGE````: For downloading files from the browser
 
